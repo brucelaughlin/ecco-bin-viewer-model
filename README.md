@@ -1,0 +1,1 @@
+Model-anomaly data (V - model) for the geodesic bin viewer at https://brucelaughlin.github.io/ecco-bin-viewer/ ; made by `ecco-insitu bin-viewer --split-model`; replaced on every publish, so no history.
